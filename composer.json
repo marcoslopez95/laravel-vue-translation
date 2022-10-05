@@ -1,5 +1,5 @@
 {
-    "name": "tohidplus/laravel-vue-translationV2",
+    "name": "tohidplus/laravel-vue-translation-v2",
     "description": "A package to have Laravel translation feature in VueJs",
     "type": "library",
     "license": "MIT",
